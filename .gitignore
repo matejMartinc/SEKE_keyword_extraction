@@ -1,0 +1,8 @@
+checkpoints*
+.pydevproject
+*.npy
+*.npz
+*.pyc
+.idea
+results*
+

@@ -1,0 +1,9 @@
+torch==2.4.0
+nltk==3.9.1
+numpy
+pandas
+scikit-learn
+lightning==2.4.0
+peft==0.13.2
+transformers==4.44.2
+datasets==3.1.0
