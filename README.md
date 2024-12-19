@@ -1,4 +1,4 @@
-# Code for experiments conducted in the paper 'SEKE: SEKE: Specialised Experts for Keyword Extraction #
+# Code for experiments conducted in the paper 'SEKE: Specialised Experts for Keyword Extraction' #
 
 ## Installation, documentation ##
 
