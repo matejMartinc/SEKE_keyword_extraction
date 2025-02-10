@@ -7,7 +7,7 @@ To get the source code, clone the project from the repository with 'git clone ht
 
 Install dependencies if needed: pip install -r requirements.txt
 
-All datasets except openKP are available in this repository: https://gitlab.com/matej.martinc/tnt_kid
+We downloaded all datasets except openKP from this repository: https://gitlab.com/matej.martinc/tnt_kid
 
 The openKP dataset is available on Hugging Face, use the "parse_openKP.py" to obtain and preprocess the data. 
 
@@ -55,6 +55,7 @@ Use a trained keyword tagger on a dataset, e.g.:<br/>
 python predict.py --model_path '/home/matej/PycharmProjects/SEKE_keyword_extraction/checkpoints/inspec_moe_rnn_seed_42/lightning_logs/version_0/checkpoints/epoch=3-Val_f1_10=0.55.ckpt' --test_path 'data/inspec/inspec_TokenClassificationDataModuleFormat_test.json' --output_path 'results/inspec_moe_rnn_seed_123.tsv' --moe --rnn
 ```
 
+<!---
 ## Contributors to the code ##
 
 Matej Martinc<br/>
@@ -63,6 +64,7 @@ Hanh Thi Hong Tran<br/>
 
 
 * [Knowledge Technologies Department](http://kt.ijs.si), Jožef Stefan Institute, Ljubljana
+--->
 
 
 
