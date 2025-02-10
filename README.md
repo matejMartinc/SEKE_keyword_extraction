@@ -3,7 +3,9 @@
 ## Installation, documentation ##
 
 Published results were produced in Python 3.11 programming environment on Linux Mint 20 Cinnamon operating system. Instructions for installation assume the usage of PyPI package manager and availability of CUDA.<br/>
-To get the source code, clone the project from the repository with 'git clone https://gitlab.com/matej.martinc/SEKE_keyword_extraction'<br/>
+
+
+Clone the project from the repository<br/>
 
 Install dependencies if needed: pip install -r requirements.txt
 
